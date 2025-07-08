@@ -1,3 +1,4 @@
+ipykernel
 deepface 
 tf_keras 
 matplotlib 
