@@ -60,3 +60,4 @@ poetry.lock
 pip-wheel-metadata/
 # local env files
 *.local.env
+*.jpg
