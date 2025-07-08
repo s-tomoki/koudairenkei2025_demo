@@ -1,0 +1,5 @@
+deepface 
+tf_keras 
+matplotlib 
+seaborn 
+pillow
